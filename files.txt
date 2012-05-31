@@ -1,0 +1,27 @@
+total 8
+drwxr-xr-x    3 tlberglund  staff    102 Nov  9  2011 Applications
+drwx------+   7 tlberglund  staff    238 May 29 20:49 Desktop
+drwx------+  52 tlberglund  staff   1768 Mar 18 19:48 Documents
+drwx------+  59 tlberglund  staff   2006 May 29 12:07 Downloads
+drwx------@  34 tlberglund  staff   1156 May 28 23:34 Dropbox
+drwxr-xr-x  911 tlberglund  staff  30974 Mar  4  2008 Fonts
+drwx------@  68 tlberglund  staff   2312 May 25 23:36 Library
+drwxr-xr-x    3 tlberglund  staff    102 Jul 13  2011 Mail
+drwx------+  24 tlberglund  staff    816 May 30 11:12 Movies
+drwx------+   8 tlberglund  staff    272 Jan 20  2010 Music
+drwx------   53 tlberglund  staff   1802 Apr 14  2009 Old Personal Documents
+drwx------+  46 tlberglund  staff   1564 Mar 15 07:59 Pictures
+drwxrwxrwx+  10 tlberglund  staff    340 Jun 23  2011 Public
+drwxr-xr-x   50 tlberglund  staff   1700 Apr 23 21:50 Purchased Software
+drwxr-xr-x+  15 tlberglund  staff    510 May  5  2010 Sites
+drwxr-xr-x  183 tlberglund  staff   6222 May 17 15:56 Tools
+drwxr-xr-x  103 tlberglund  staff   3502 Apr 28 07:17 code
+drwxr-xr-x    4 tlberglund  staff    136 Jun  7  2011 emacs-starter-kit.git
+drwxr-xr-x    4 tlberglund  staff    136 Apr  2  2011 jdk
+drwxr-xr-x   12 tlberglund  staff    408 Nov 30  2011 monkey-app
+drwxr-xr-x    3 tlberglund  staff    102 Jan 28 16:42 output
+-rw-r--r--    1 tlberglund  staff   1355 Oct 12  2011 pgadmin.log
+drwxr-xr-x    6 tlberglund  staff    204 Dec  7 06:41 poems
+drwxr-xr-x   13 tlberglund  staff    442 Apr  3 13:26 scripts
+drwxr-xr-x   15 tlberglund  staff    510 Apr 25 01:49 workshops
+drwxr-xr-x    4 tlberglund  staff    136 Nov 16  2011 workspace
